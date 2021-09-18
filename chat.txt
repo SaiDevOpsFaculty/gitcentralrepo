@@ -1,0 +1,6 @@
+22:03:45	 From  A K : sir how can we add multiple members in topic at one time ?
+22:16:41	 From  Gurram Purushotham reddy : sai this applicable for nodes also
+22:30:59	 From  shilpa : I sended but again I got a same bill
+22:53:09	 From  Indra D : Sai, sometimes we get false alarm also so in that case we also receives mails?
+22:57:51	 From  shilpa : same mail I got 608 rupess
+22:57:55	 From  Murali Domda : Do we have free account in oracle cloud also like AWS ?
